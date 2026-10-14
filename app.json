@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Glovebox",
+    "slug": "glovebox",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#10151c",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.glovebox.app"
+    },
+    "android": {
+      "package": "com.glovebox.app"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-asset"
+    ]
+  }
+}
